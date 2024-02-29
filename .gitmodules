@@ -4,3 +4,9 @@
 [submodule "user_management"]
 	path = user_management
 	url = https://github.com/Rahman2001/user_management.git
+[submodule "product_management"]
+	path = product_management
+	url = https://github.com/Rahman2001/product_management.git
+[submodule "web_ui"]
+	path = web_ui
+	url = https://github.com/Rahman2001/web_ui.git
