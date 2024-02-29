@@ -13,3 +13,6 @@
 [submodule "delivery_management"]
 	path = delivery_management
 	url = https://github.com/Rahman2001/delivery_management.git
+[submodule "payment_management"]
+	path = payment_management
+	url = https://github.com/Rahman2001/payment_management.git
