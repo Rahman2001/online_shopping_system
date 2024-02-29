@@ -10,3 +10,6 @@
 [submodule "web_ui"]
 	path = web_ui
 	url = https://github.com/Rahman2001/web_ui.git
+[submodule "delivery_management"]
+	path = delivery_management
+	url = https://github.com/Rahman2001/delivery_management.git
